@@ -17,6 +17,13 @@ public class HelloApplicationTests {
 	@Test
 	public void hello() throws Exception {
 		sender.send();
+		sender.send();
+		sender.send();
+		sender.send();
+		sender.send();
+		sender.send();
+		sender.send();
+		sender.send();
 	}
 
 }
