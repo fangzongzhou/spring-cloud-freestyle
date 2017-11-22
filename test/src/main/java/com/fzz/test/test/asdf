@@ -1,0 +1,6 @@
+object Main {
+  @JvmStatic
+  fun main(a: Array<String>) {
+    println("Hello World")
+  }
+}
